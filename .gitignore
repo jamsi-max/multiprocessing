@@ -1,3 +1,8 @@
+googlebooks
+*googlebooks*
+googlebooks.*
+.googlebooks.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
